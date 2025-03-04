@@ -1,7 +1,7 @@
 # Hi, my name is William Glory 👋
 
 An Undergraduate Student in Informatics Engineering at Institut Teknologi Bandung <br>
-Currently on 5th semester and I have a passion for software development and data analysis
+Currently on 6th semester and I have a passion for data analyst and software engineer
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
