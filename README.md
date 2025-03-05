@@ -1,7 +1,7 @@
-# Hi, my name is William Glory 👋
+# Hi, my name is William Glory Henderson 👋
 
 An Undergraduate Student in Informatics Engineering at Institut Teknologi Bandung <br>
-Currently on 6th semester and I have a passion for data analyst and software engineer
+Currently on 6th semester and I have a strong passion for data analyst and software engineer
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
@@ -27,4 +27,4 @@ Currently on 6th semester and I have a passion for data analyst and software eng
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🛠️ My Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wegeh&layout=compact&langs_count=10&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wegeh&layout=compact&langs_count=10)
