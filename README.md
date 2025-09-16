@@ -1,7 +1,7 @@
 # Hi, my name is William Glory Henderson 👋
 
 An Undergraduate Student in Informatics Engineering at Institut Teknologi Bandung <br>
-Currently on 6th semester and I have a strong passion for Data Science, AI / ML Engineer, and Software Engineer
+Currently on 7th semester and I have a strong passion for Data Science, AI / ML Engineer, and Software Engineer
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
