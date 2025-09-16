@@ -27,4 +27,4 @@ Currently on 7th semester and I have a strong passion for Data Science, AI / ML 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🛠️ My Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wegeh&layout=compact&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wegeh&layout=compact&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
